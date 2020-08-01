@@ -6,7 +6,7 @@ public class Crypto {
         System.out.println("What do you want to encrypt? ");
         String text = input.nextLine();
 
-        System.out.println("What would you like your shift value to be for the string? ");
+        System.out.println("What would you like your value to be for the string? ");
         int shiftValue = input.nextInt();
 
         System.out.println("What size groups would you like the text split into? ");
