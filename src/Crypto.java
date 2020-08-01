@@ -12,7 +12,7 @@ public class Crypto {
         System.out.println("What size groups would you like the text split into? ");
         int sizeGroups = input.nextInt();
 
-        System.out.println("Your encrypted text is ");
+        System.out.println("Your text is ");
     }
 
     public static String normalizeText(String normal) {
